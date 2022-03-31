@@ -2,3 +2,4 @@ dalsia zmena od kamarata
 dominik riadok
 
 toto je prva zmena na vetve main
+toto je druha zmena na vetve main
