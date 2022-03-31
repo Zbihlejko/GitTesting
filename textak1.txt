@@ -1,4 +1,4 @@
-dalsia zmena od kamarata
+dalsia zmena od kamarata rebase testing vetva 
 dominik riadok
 
 toto je zmena na vetve testing
