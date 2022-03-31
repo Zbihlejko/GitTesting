@@ -2,3 +2,4 @@ dalsia zmena od kamarata
 dominik riadok
 
 toto je zmena na vetve testing
+toto je druha zmena na vetve testing
