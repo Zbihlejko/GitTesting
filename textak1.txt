@@ -1,5 +1,5 @@
 dalsia zmena od kamarata rebase testing vetva 
-dominik riadok
+dominik riadok rebase testing vetva 2
 
 toto je zmena na vetve testing
 toto je druha zmena na vetve testing
